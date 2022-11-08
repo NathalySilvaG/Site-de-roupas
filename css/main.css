@@ -1,0 +1,154 @@
+body{
+  background-color: #C7F6EE;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.menu-principal{
+  width: 100%;
+  background-color:#F6CAC7 ;
+  height: 160px;
+}
+main{
+  margin: 0 auto;
+  width: 980px;
+  position: relative;
+}
+.logo{
+  display: block;
+  margin-left: 250px;
+  position: relative;
+  padding: 14px;
+  float: none;
+  width: 70%;
+}
+.header-2{
+  display: block;
+  background-color: #9CFFA9;
+  height: 60px;
+  width: 100%;
+}
+.menu ul li  {
+  display: inline-block;
+  margin-left: 35px;
+  margin-top: 13px;
+
+}
+.menu ul li a:hover{
+  color: #f84646 ;
+  border-bottom: 2px dashed #f84646 ;
+}
+.menu ul li a{
+  margin-right: 25px;
+  width: 990px;
+  text-decoration: none;
+  color: #2ba53b;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+.img{
+  max-width: 100%;
+}
+.rp{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+div.container {
+  font-family:  calibri;
+  color: #f84646;
+  text-align: center;
+  padding: 2px 20px;
+  font-size: 20px;
+  max-width: 100%;
+}
+div.camisa {
+  display: inline-block;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}  
+div.camisa-2 {
+  display: inline-block;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}  
+div.camisa-3 {
+  display: inline-block;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}   
+#texto-central{
+  color: #2ba53b;
+  text-align: center;
+  margin-top: 30px;
+}
+.mt{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+div.moletom {
+  display: inline-block;
+  margin-top: 50px;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+div.moletom-2 {
+  display: inline-block;
+  margin-top: 50px;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+div.moletom-3 {
+  display: inline-block;
+  margin-top: 50px;
+  margin: 15px;
+  width: 280px;
+  height:330px;
+  background-color: #F6CAC7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}   
+#nome {
+  font-family: calibri;
+  color: #f84646;
+  text-align: center;
+  padding: 2px 20px;
+  font-size: 20px;
+  max-width: 100%;
+}
+.final{
+  display: block;
+  background-color: #9CFFA9;
+  width: 100%;
+  height: 60px;
+  margin-top: 36px;
+}
+.final-1{
+  display: block;
+  background-color: #F6CAC7;
+  width: 100%;
+  height: 90px;
+  margin-top: 20px;
+}
